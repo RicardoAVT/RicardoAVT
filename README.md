@@ -19,3 +19,9 @@
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/ricardo-toucedo/">Let's get in touch!</a>&nbsp;
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I never skip gym! :raised_hands:
+
+<br>
+
+### Languages and Tools: 
+
+<img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/tomchen/stack-icons/raw/master/logos/visual-studio-code.svg" />
