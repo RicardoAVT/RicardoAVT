@@ -34,3 +34,5 @@
 <img align="left" alt="Apache" width="35px" src="https://cdn.svgporn.com/logos/apache.svg" />
 <img align="left" alt="Hibernate" width="35px" src="https://cdn.svgporn.com/logos/hibernate.svg" />
 <img align="left" alt="Spring" width="35px" src="https://cdn.svgporn.com/logos/spring-icon.svg" />
+<img align="left" alt="IntelliJ" width="35px" src="https://cdn.svgporn.com/logos/intellij-idea.svg" />
+<img align="left" alt="Bootstrap" width="35px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />
