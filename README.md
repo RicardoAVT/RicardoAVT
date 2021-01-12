@@ -30,7 +30,7 @@
 <img align="left" alt="JavaScript" width="35px" src="https://cdn.svgporn.com/logos/javascript.svg" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
 <img align="left" alt="SQL" width="35px" src="https://cdn.svgporn.com/logos/mysql.svg" />
-<img align="left" alt="Git" width="35px" src="https://cdn.svgporn.com/logos/git.svg" />
+<img align="left" alt="Git" width="60px" src="https://cdn.svgporn.com/logos/git.svg" />
 <img align="left" alt="Apache" width="35px" src="https://cdn.svgporn.com/logos/apache.svg" />
 <img align="left" alt="Hibernate" width="35px" src="https://cdn.svgporn.com/logos/hibernate.svg" />
 <img align="left" alt="Spring" width="35px" src="https://cdn.svgporn.com/logos/spring-icon.svg" />
