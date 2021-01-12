@@ -25,3 +25,8 @@
 ### Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/tomchen/stack-icons/raw/master/logos/visual-studio-code.svg" />
+<img align="left" alt="Java" width="35px" src="https://github.com/tomchen/stack-icons/raw/master/logos/java.svg"/>
+<img align="left" alt="HTML5" width="35px" src="https://github.com/tomchen/stack-icons/raw/master/logos/html-5.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://github.com/tomchen/stack-icons/raw/master/logos/css-3.svg" />
+<img align="left" alt="JavaScript" width="35px" src="https://github.com/tomchen/stack-icons/raw/master/logos/javascript.svg" />
+<img align="left" alt="SQL" width="35px" src="https://cdn.svgporn.com/logos/mysql.svg />
