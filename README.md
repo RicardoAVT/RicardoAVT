@@ -36,3 +36,5 @@
 <img align="left" alt="Spring" width="35px" src="https://cdn.svgporn.com/logos/spring-icon.svg" />
 <img align="left" alt="IntelliJ" width="35px" src="https://cdn.svgporn.com/logos/intellij-idea.svg" />
 <img align="left" alt="Bootstrap" width="35px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />
+<img align="left" alt="PS" width="35px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" />
+<img align="left" alt="AI" width="35px" src="https://www.gwg.org/wp-content/uploads/2000px-Adobe_Illustrator_CC_icon.svg_.png" />
