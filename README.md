@@ -18,7 +18,7 @@
 - 🥅 2021 Goals: Get a job as a Junior Fullstack Developer
 - 💬 Ask me about anything, I am happy to help
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/ricardo-toucedo/">Let's get in touch!</a>&nbsp;
-- 🧗 I try to: Go beyond and push the bounds
+- 🧗 I try to: Go beyond and push my limits!
 - ⚡ Fun fact: I never skip gym! :raised_hands:
 
 <br>
