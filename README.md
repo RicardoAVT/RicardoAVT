@@ -12,7 +12,7 @@
 <img align="right" height="270px" alt="GIF" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47nruuu96nda8x4n2v55z3avni9t2480thfcxcukxw&rid=giphy.gif" />
 
 ### I am a Junior Fullstack Developer 💻
-- 🔭 I’m currently working as a Junior Outsystems Developer
+- 🔭 I’m currently working as a Junior OutSystems Developer
 - 💡 I’m going to start learning C#
 - 🥅 2021 Goals: Continue learning && growing as a Outsystems Developer
 - 💬 Ask me about anything, I am happy to help
