@@ -1,4 +1,4 @@
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQHjDSZP2Zv2fQ/profile-displaybackgroundimage-shrink_350_1400/0/1606518230688?e=1616025600&v=beta&t=34XlVWeevMsjIyLlN_315vrbO_Kc69HrIs80NgXUKKE" />
+<--!<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQHjDSZP2Zv2fQ/profile-displaybackgroundimage-shrink_350_1400/0/1606518230688?e=1616025600&v=beta&t=34XlVWeevMsjIyLlN_315vrbO_Kc69HrIs80NgXUKKE" />-->
 <p>
   <h1 align="center"><b>Hi there, I'm Ricardo Toucedo 👋</b></h1>
 </p>
