@@ -12,9 +12,9 @@
 <img align="right" height="270px" alt="GIF" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47nruuu96nda8x4n2v55z3avni9t2480thfcxcukxw&rid=giphy.gif" />
 
 ### I am a Junior Fullstack Developer 💻
-- 🔭 I’m currently working as a Junior OutSystems Developer
-- 💡 I’m going to start learning C#
-- 🥅 2021 Goals: Continue learning && growing as a Outsystems Developer
+- 🔭 I’m currently working as a OutSystems Developer
+- 💡 I’m going to start learning Web3 Development
+- 🥅 2023 Goals: Continue learning && growing as a Outsystems Developer and learn Web3 Development
 - 💬 Ask me about anything, I am happy to help
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/ricardo-toucedo/">Let's get in touch!</a>&nbsp;
 - 🧗 I try to: Go beyond and push my limits!
