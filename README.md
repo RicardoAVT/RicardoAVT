@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi there, I'm Ricardo Toucedo 👋</b></h1>
 </p>
 
-<p align="center">
+<p align="left">
 <br>
 <a href="https://www.linkedin.com/in/ricardo-toucedo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
@@ -22,6 +22,7 @@
 
 ### Languages and Tools: 
 
+<img align="left" alt="JavaScript" width="35px" src="https://cdn.svgporn.com/logos/javascript.svg" />
 <img align="left" alt="HTML5" width="35px" src="https://cdn.svgporn.com/logos/html-5.svg" />
 <img align="left" alt="CSS3" width="35px" src="https://cdn.svgporn.com/logos/css-3.svg" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
