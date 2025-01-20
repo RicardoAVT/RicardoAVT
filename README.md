@@ -4,7 +4,6 @@
 
 <p align="center">
 <br>
- <a href="https://www.instagram.com/ricardotoucedo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ricardo-toucedo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
@@ -13,7 +12,7 @@
 ### I am a Junior Fullstack Developer 💻
 - 🔭 I’m currently working as a OutSystems Developer
 - 💡 I’m going to start learning JavaScript, React and NodeJS
-- 🥅 2024 Goals: Continue learning && growing as a Outsystems Developer and learn JavaScript, React and NodeJS
+- 🥅 2025 Goals: Continue learning && growing as a Outsystems Developer and learn JavaScript, React and NodeJS
 - 💬 Ask me about anything, I am happy to help
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/ricardo-toucedo/">Let's get in touch!</a>&nbsp;
 - 🧗 I try to: Go beyond and push my limits!
