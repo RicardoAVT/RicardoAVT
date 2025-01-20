@@ -22,16 +22,8 @@
 
 ### Languages and Tools: 
 
-<img align="left" alt="Java" width="35px" src="https://cdn.svgporn.com/logos/java.svg"/>
 <img align="left" alt="HTML5" width="35px" src="https://cdn.svgporn.com/logos/html-5.svg" />
 <img align="left" alt="CSS3" width="35px" src="https://cdn.svgporn.com/logos/css-3.svg" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
 <img align="left" alt="SQL" width="35px" src="https://cdn.svgporn.com/logos/mysql.svg" />
 <img align="left" alt="Git" width="70px" src="https://cdn.svgporn.com/logos/git.svg" />
-<img align="left" alt="Apache" width="35px" src="https://cdn.svgporn.com/logos/apache.svg" />
-<img align="left" alt="Hibernate" width="35px" src="https://cdn.svgporn.com/logos/hibernate.svg" />
-<img align="left" alt="Spring" width="35px" src="https://cdn.svgporn.com/logos/spring-icon.svg" />
-<img align="left" alt="IntelliJ" width="35px" src="https://cdn.svgporn.com/logos/intellij-idea.svg" />
-<img align="left" alt="Bootstrap" width="35px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />
-<img align="left" alt="PS" width="35px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" />
-<img align="left" alt="AI" width="35px" src="https://www.gwg.org/wp-content/uploads/2000px-Adobe_Illustrator_CC_icon.svg_.png" />
